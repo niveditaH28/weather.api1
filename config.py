@@ -1,0 +1,5 @@
+API_KEY ='3ed4614c11e61caa5077b82269698689'
+CITY='Mysuru'
+CSV_FILE='weather_data.csv'
+EXCEL_FILE='weather_data.xlsx'
+XML_FILE='weather_data.xml'
